@@ -1,1 +1,1 @@
-Creamos la carpeta proyectos
+Creamos la carpeta proyectos para adjuntar los nuevos items
